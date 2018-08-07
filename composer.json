@@ -29,7 +29,6 @@
             "Wot\\CrudGenerator\\": "src/"
         },
         "classmap": [
-            "tests"
         ]
     },
     "extra": {

@@ -27,9 +27,7 @@
     "autoload": {
         "psr-4": {
             "Wot\\CrudGenerator\\": "src/"
-        },
-        "classmap": [
-        ]
+        }
     },
     "extra": {
         "laravel": {
